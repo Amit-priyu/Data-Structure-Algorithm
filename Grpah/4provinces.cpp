@@ -11,6 +11,7 @@ void dfs(int node, vector<int> adj[], int vis[])
             dfs(it, adj, vis);
     }
 }
+// this means that finding the no of connectted component..
 int numProvinces(vector<vector<int>> adj, int v)
 {
 
@@ -40,5 +41,5 @@ int numProvinces(vector<vector<int>> adj, int v)
 }
 
 int main(){
-    
+
 }
