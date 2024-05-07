@@ -41,4 +41,5 @@ int main(){
     int output=searchinrotatedarray(v,n,key);
     cout<<output<<endl;
     return 0;
-} 
+}
+// binary search learning..
